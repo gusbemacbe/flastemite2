@@ -25,6 +25,11 @@ Yes, for example, at the right, the icons used to be 900px and didn't follow the
 * PNG, 1x and 2x for Android and iOS
 * Localised icons
 * Varietes of Finder characters
+
+Harry Potter, scientist and rock singer
+
+<img src="Varietes of Finder characters.png" alt="Finder">
+
 * Varietes of colours
 
 <img src="Varietes of colours.png" alt="Colours">
