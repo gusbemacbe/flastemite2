@@ -24,6 +24,13 @@ Yes, for example, at the right, the icons used to be 900px and didn't follow the
 * SVG format for Linux
 * PNG, 1x and 2x for Android and iOS
 * Localised icons
-* Varietes of colours and of icons
+* Varietes of Finder characters
+* Varietes of colours
+
+<img src="Varietes of colours.png" alt="Colours">
+
+* Varieties of icons
+* Egg easters
+* Flastemite icons font
 
 The second version is still in development. It will come soon!
