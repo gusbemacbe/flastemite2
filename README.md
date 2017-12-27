@@ -26,9 +26,10 @@ Yes, for example, at the right, the icons used to be 900px and didn't follow the
 * Localised icons
 * Varietes of Finder characters
 
-Harry Potter, scientist and rock singer
-
-<img src="Varietes of Finder characters.png" alt="Finder">
+<figure>
+ <img src="Varietes of Finder characters.png" alt="Finder">
+ <figcaption>Harry Potter, scientist and rock singer</figcaption>
+</figure>
 
 * Varietes of colours
 
