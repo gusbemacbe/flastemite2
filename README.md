@@ -7,6 +7,8 @@
 #### Why the second version?
 Because the second version will inherit the first version of icons pack I developed and hosted on Deviantart, but many of icons are outdated and it will follow Google and Materialize colours plaettes, to make them more elegant, excited and modern, for the flat macOS and other OSes. 
 
+I'll build a icon pack theme into a Debian package for Linux distributions. 
+
 #### Is there a difference between versions 1 and 2?
 
 Yes, for example, at the right, the icons used to be 900px and didn't follow the material design and at the right, they are reduced 850px and follow material deisgn colours. The new icons derived of the apps‘ new icons:
