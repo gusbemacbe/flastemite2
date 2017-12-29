@@ -24,8 +24,15 @@ Yes, for example, at the right, the icons used to be 900px and didn't follow the
 * ICNS format for macOS
 * ICO format for Windows
 * SVG format for Linux
-* PNG, 1x and 2x for Android and iOS
+* PNG format for Android and iOS
+
+#### Features of icons
+To give more freedom, fun and chocie for users…!
+
 * Localised icons
+
+<img src="Localised icons.png" alt="Localised icons">
+
 * Varietes of Finder characters
 
 <img src="Varietes of Finder characters.png" alt="Finder">
@@ -35,6 +42,9 @@ Yes, for example, at the right, the icons used to be 900px and didn't follow the
 <img src="Varietes of colours.png" alt="Colours">
 
 * Varieties of icons
+
+<img src="Varieties of alternative icons.png" alt="Alternative icons">
+
 * Egg easters
 * Flastemite icons font
 
