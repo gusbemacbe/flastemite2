@@ -33,11 +33,11 @@ To give more freedom, fun and chocie for users…!
 
 <img src="Localised icons.png" alt="Localised icons">
 
-* Varietes of Finder characters
+* Varieties of Finder characters
 
 <img src="Varietes of Finder characters.png" alt="Finder">
 
-* Varietes of colours
+* Varieties of colours
 
 <img src="Varietes of colours.png" alt="Colours">
 
