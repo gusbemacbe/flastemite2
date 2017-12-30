@@ -1,0 +1,622 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 1024 1024" width="1024" height="1024">
+    <defs>
+        <clipPath id="_clipPath_fN6cJUjx0lUxI67qma0tPJL7AMEpvgnc">
+            <rect width="1024" height="1024" />
+        </clipPath>
+        <style type="text/css">
+        @import url('https://fonts.googleapis.com/css?family=Roboto+Mono:300,300i');
+        text 
+        {
+            font-family: "Roboto Mono";
+        }
+        </style>
+    </defs>
+    <g clip-path="url(#_clipPath_fN6cJUjx0lUxI67qma0tPJL7AMEpvgnc)">
+        <rect x="87" y="87" width="850" height="850" transform="matrix(1,0,0,1,0,0)" fill="rgb(240,98,146)" />
+        <g id="paper">
+            <g id="paper 1">
+                <rect x="247.553" y="217.904" width="511.602" height="609.585" transform="matrix(0.916,-0.402,0.402,0.916,-167.554,246.184)" fill="rgb(245,245,245)" />
+                <rect x="274.032" y="243.84" width="458.645" height="557.712" transform="matrix(0.916,-0.402,0.402,0.916,-167.554,246.184)" fill="rgb(66,165,245)" />
+            </g>
+            <g id="paper 2" filter="url(#q9cOtXfZmnVSDgR3TFjpTiVtBzaVJ7VX)">
+                <rect x="235.835" y="159.029" width="572.33" height="681.942" transform="matrix(0.986,-0.166,0.166,0.986,-75.762,93.596)" fill="rgb(245,245,245)" />
+                <rect x="265.942" y="188.633" width="512.117" height="622.734" transform="matrix(0.986,-0.166,0.166,0.986,-75.762,93.596)" fill="rgb(33,33,33)" />
+            </g>
+            <defs>
+                <filter id="q9cOtXfZmnVSDgR3TFjpTiVtBzaVJ7VX" x="-200%" y="-200%" width="400%" height="400%">
+                    <feOffset xmlns="http://www.w3.org/2000/svg" in="SourceAlpha" result="offOut" dx="-10" dy="15" />
+                    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="offOut" result="blurOut" stdDeviation="0" />
+                    <feComponentTransfer xmlns="http://www.w3.org/2000/svg" in="blurOut" result="opacOut">
+                        <feFuncA xmlns="http://www.w3.org/2000/svg" type="table" tableValues="0 0.5" />
+                    </feComponentTransfer>
+                    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="opacOut" mode="normal" />
+                </filter>
+            </defs>
+        </g>
+        <g id="code body">
+            <g transform="matrix(0.985,-0.174,0.174,0.985,231,264.233)">
+                <text transform="matrix(1,0,0,1,26.49,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#B0BEC5;stroke:none;">-- Generate pseudorandom numbers</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,233.257,277.036)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,259.345,272.436)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">set</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,278.911,268.986)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">rand1 </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,324.565,260.936)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,337.609,258.636)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">(</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,350.652,256.336)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#66BB6A;stroke:none;">round</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,383.262,250.586)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">(</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,396.306,248.286)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">random</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,435.438,241.386)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,441.96,240.236)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#66BB6A;stroke:none;">number</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,481.091,233.336)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,487.613,232.186)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">from</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,513.701,227.586)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,520.223,226.436)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#F57C00;stroke:none;">100</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,539.789,222.986)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,546.311,221.836)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,559.355,219.536)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,565.877,218.386)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#F57C00;stroke:none;">999</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,585.443,214.936)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">)) </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,605.008,211.486)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">as</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,618.052,209.186)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,624.574,208.036)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:italic;fill:#FDD835;stroke:none;">text</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,235.515,289.838)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,261.603,285.238)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">set</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,281.168,281.788)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">rand2 </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,326.822,273.738)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,339.866,271.438)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">(</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,352.91,269.138)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#66BB6A;stroke:none;">round</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,385.52,263.388)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">(</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,398.564,261.088)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">random</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,437.695,254.188)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,444.217,253.038)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#66BB6A;stroke:none;">number</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,483.349,246.138)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,489.871,244.988)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">from</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,515.959,240.388)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,522.481,239.238)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#F57C00;stroke:none;">100</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,542.046,235.788)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,548.568,234.638)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,561.612,232.338)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,568.134,231.188)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#F57C00;stroke:none;">999</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,587.7,227.738)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">)) </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,607.266,224.288)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">as</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,620.31,221.988)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,626.832,220.838)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:italic;fill:#FDD835;stroke:none;">text</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,237.772,302.641)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,263.86,298.041)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">set</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,283.426,294.591)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">randomText </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,361.689,280.791)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,374.733,278.491)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">rand1 </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,420.387,270.441)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">&amp;</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,426.909,269.291)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,433.431,268.141)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#42A5F5;stroke:none;">"-"</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,452.997,264.691)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,459.518,263.541)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">&amp;</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,466.04,262.391)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">rand2</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,240.03,315.443)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,242.287,328.246)">
+                <text transform="matrix(1,0,0,1,26.49,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#B0BEC5;stroke:none;">-- Create file name</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,244.545,341.048)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,270.632,336.448)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">set</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,290.198,332.998)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">fileName </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,355.418,321.498)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,368.462,319.198)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">((</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,388.027,315.748)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#42A5F5;stroke:none;">"AppleScriptTempFile_"</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,531.51,290.448)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,538.032,289.298)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">&amp;</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,544.554,288.148)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">randomText) </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,629.339,273.198)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">as</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,642.383,270.898)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,648.905,269.748)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:italic;fill:#FDD835;stroke:none;">text</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,674.993,265.148)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">)</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,246.802,353.851)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,249.059,366.653)">
+                <text transform="matrix(1,0,0,1,26.49,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#B0BEC5;stroke:none;">-- Get the path to the parent folder</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,251.317,379.456)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,281.473,374.138)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">set</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,301.038,370.688)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">temporaryFolderPath </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,439.162,346.333)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,452.205,344.033)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">(</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,465.831,341.631)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">path</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,491.918,337.031)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,499.021,335.779)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,512.065,333.479)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">temporary </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,584.969,320.624)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">items</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,617.579,314.874)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">folder </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,670.917,305.469)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">from</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,697.004,300.869)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">user </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,253.574,392.258)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">domain) </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,305.75,383.058)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">as</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,318.794,380.758)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,325.316,379.608)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:italic;fill:#FDD835;stroke:none;">text</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,255.832,405.061)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,281.919,400.461)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">if</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,294.963,398.161)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">folderName </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,373.227,384.361)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">is</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,386.271,382.061)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,392.793,380.911)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#66BB6A;stroke:none;">false</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,425.402,375.161)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,431.924,374.011)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">then</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,258.089,417.863)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,310.265,408.663)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">set</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,329.831,405.213)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">parentFolderPath </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,447.226,384.513)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,460.269,382.213)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">temporaryFolderPath</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,260.347,430.666)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,286.434,426.066)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">else</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,262.604,443.468)">
+                <text transform="matrix(1,0,0,1,52.98,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#B0BEC5;stroke:none;">-- Create parent folder if necessary</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,264.861,456.271)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,317.037,447.071)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">set</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,336.603,443.621)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">parentFolderPath </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,453.998,422.921)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,467.042,420.621)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">temporaryFolderPath </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,604.003,396.471)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">&amp;</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,610.525,395.321)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">folderName </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,688.788,381.521)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">&amp;</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,695.31,380.371)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,701.832,379.221)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#42A5F5;stroke:none;">":"</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,267.119,469.073)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,319.294,459.873)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">tell</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,345.382,455.273)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,351.904,454.123)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:italic;fill:#FDD835;stroke:none;">application</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,423.646,441.473)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,430.167,440.323)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#42A5F5;stroke:none;">"System Events"</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,269.376,481.876)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,347.64,468.076)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">if</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,360.684,465.776)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">(exists folder parentFolderPath) </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,582.43,426.676)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">is</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,595.474,424.376)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,601.996,423.226)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#66BB6A;stroke:none;">false</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,634.605,417.476)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,641.127,416.326)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">then</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,271.634,494.678)">
+                <text transform="matrix(1,0,0,1,105.961,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">make new folder </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,538.132,447.687)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">at the end of</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,628.017,431.838)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">folders </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,690.115,420.889)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">of</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,703.159,418.589)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">folder </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,273.891,507.481)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">temporaryFolderPath </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,404.33,484.481)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">with</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,430.418,479.881)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,436.94,478.731)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:italic;fill:#FDD835;stroke:none;">properties</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,502.159,467.231)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">{</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,515.203,464.931)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#42A5F5;stroke:none;">name</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,541.291,460.331)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">:</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,547.813,459.181)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#BDBDBD;stroke:none;">folderName</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,613.032,447.681)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">}</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,276.149,520.283)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,354.412,506.483)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">end</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,373.978,503.033)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,380.5,501.883)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">if</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,278.406,533.086)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,330.582,523.886)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">end</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,350.147,520.436)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,356.669,519.286)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">tell</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,280.663,545.888)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,306.751,541.288)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">end</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,326.317,537.838)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,332.839,536.688)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">if</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,282.921,558.691)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,285.178,571.493)">
+                <text transform="matrix(1,0,0,1,26.49,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#B0BEC5;stroke:none;">-- Make sure the file does not exist</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,287.436,584.296)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,313.523,579.696)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">set</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,333.089,576.246)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">rNumber </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,391.787,565.896)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,404.831,563.596)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,411.353,562.446)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#F57C00;stroke:none;">1</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,289.693,597.098)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,291.951,609.901)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,318.038,605.301)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">repeat</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,294.208,622.703)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,346.384,613.503)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">if</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,359.427,611.203)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">rNumber </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,418.125,600.853)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">is</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,431.169,598.553)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,437.691,597.403)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#F57C00;stroke:none;">1</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,444.213,596.253)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,450.735,595.103)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">then</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,296.465,635.506)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,374.729,621.706)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">set</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,394.295,618.256)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">tempFilePath </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,485.602,602.156)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,498.646,599.856)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">parentFolderPath </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,616.041,579.156)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">&amp;</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,622.563,578.006)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">fileName</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,298.723,648.308)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,350.898,639.108)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">else</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,300.98,661.111)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,410.337,641.828)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">set</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,429.902,638.378)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">tempFilePath </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,523.913,621.801)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,536.957,619.501)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">parentFolderPath </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,657.056,598.325)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">&amp;</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,663.578,597.175)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">fileName </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,731.501,585.198)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">&amp;</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,738.023,584.048)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,745.897,582.66)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#42A5F5;stroke:none;">"_"</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,765.463,579.21)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,773.337,577.821)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">&amp;</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,779.859,576.671)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,303.238,673.913)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">(rNumber </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,361.935,663.563)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">as</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,374.979,661.263)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,381.501,660.113)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:italic;fill:#FDD835;stroke:none;">text</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,407.589,655.513)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">)</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,305.495,686.716)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,357.671,677.516)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">end</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,377.236,674.066)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,383.758,672.916)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">if</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,307.752,699.518)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,310.01,712.321)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,363.996,702.801)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">tell</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,390.084,698.201)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,396.727,697.03)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:italic;fill:#FDD835;stroke:none;">application</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,468.468,684.38)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,475.111,683.209)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#42A5F5;stroke:none;">"System Events"</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,573.061,665.938)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,579.703,664.766)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,592.747,662.466)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,599.39,661.295)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">if</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,612.434,658.995)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">(exists file tempFilePath) </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,312.267,725.123)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">is</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,325.311,722.823)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,331.833,721.673)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#66BB6A;stroke:none;">false</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,364.443,715.923)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,370.965,714.773)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">then</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,397.053,710.173)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">exit </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,436.184,703.273)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">repeat</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,314.525,737.926)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,366.7,728.726)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">set</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,386.266,725.276)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">rNumber </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,444.964,714.926)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">to</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,458.008,712.626)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">rNumber </text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,516.705,702.276)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#F57C00;stroke:none;">+ 1</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,316.782,750.728)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,342.87,746.128)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">end</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,362.436,742.678)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,368.958,741.528)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">repeat</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,319.04,763.531)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,321.297,776.333)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,347.385,771.733)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">return</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,386.517,764.833)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">tempFilePath</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,323.554,789.136)" />
+            <g transform="matrix(0.985,-0.174,0.174,0.985,325.812,801.938)">
+                <text transform="matrix(1,0,0,1,0,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#DD3935;stroke:none;">end</text>
+            </g>
+            <g transform="matrix(0.985,-0.174,0.174,0.985,345.378,798.488)">
+                <text transform="matrix(1,0,0,1,6.623,10.21)" style="font-family:&quot;Roboto Mono&quot;,monospace;font-weight:400;font-size:11px;font-style:normal;fill:#FFFFFF;stroke:none;">temporaryPathWithFolderName</text>
+            </g>
+        </g>
+        <g id="hammer">
+            <path d=" M 692.492 559.346 L 562.71 851.635 C 558.455 861.219 559.243 876.381 564.468 885.473 C 576.708 906.766 611.526 919.452 641.006 911.783 C 651.155 909.143 662.414 899.04 666.133 889.235 L 776.703 597.782 L 692.492 559.346 Z " fill="rgb(0,121,107)" />
+            <path d=" M 920.898 527.514 L 854.232 497.417 C 849.203 508.178 835.288 509.079 831.165 507.099 L 815.493 499.679 C 816.518 494.889 816.149 489.791 814.243 485.051 C 811.961 478.993 807.436 474.058 801.654 471.323 L 760.467 451.778 C 760.239 451.643 759.753 451.496 759.389 451.324 L 750.703 447.223 L 711.893 428.814 C 675.626 411.6 581.919 447.147 571.358 451.251 L 563.158 454.473 L 570.724 473.729 C 570.724 473.729 576.897 473.193 576.64 473.294 C 578.379 473.365 609.954 470.847 659.394 495.71 C 681.573 506.907 706.637 523.382 700.236 539.025 C 700.13 539.426 699.405 541.376 696.645 548.31 C 696.39 548.973 696.336 549.478 696.151 550.124 L 688.386 569.61 L 773.639 606.118 L 783.147 582.246 C 783.218 582.094 783.195 581.923 783.267 581.771 L 788.276 569.116 C 788.811 569.39 791.761 570.784 803.597 576.371 C 808.03 578.498 816.319 589.348 810.302 601.949 C 812.45 602.95 877.833 634.249 877.833 634.249 L 920.898 527.514 Z " fill="rgb(120,144,156)" />
+            <path d=" M 854.232 497.417 C 849.203 508.178 835.288 509.079 831.165 507.099 L 815.548 499.736 L 788.295 569.165 C 788.918 569.438 791.921 570.856 803.597 576.371 C 808.03 578.498 816.319 589.348 810.302 601.949 L 854.232 497.417 Z " fill="rgb(84,110,122)" />
+            <path d=" M 665.357 625.143 L 753.643 662.857 C 757.704 664.592 762.187 662.617 763.649 658.451 L 778.351 616.549 C 779.813 612.383 777.724 607.544 773.69 605.751 L 689.31 568.249 C 685.276 566.456 680.609 568.304 678.896 572.373 L 661.104 614.627 C 659.391 618.696 661.296 623.408 665.357 625.143 Z " fill="rgb(0,150,136)" />
+        </g>
+        <path d=" M 642.969 826.076 C 640.269 825.061 636.611 825.216 633.99 826.287 C 631.617 827.265 629.177 829.176 628.62 831.855 C 631.454 833.197 635.011 833.03 637.577 831.891 C 639.97 830.826 642.272 828.832 642.969 826.076 Z  M 638.623 836.285 C 634.485 834.454 631.632 836.267 628.768 834.999 C 625.819 833.693 624.19 830.066 620.628 828.49 C 615.779 826.344 606.396 827.636 601.708 838.228 C 597.443 847.863 601.444 862.375 606.373 864.556 C 609.351 865.907 610.943 864.293 615.013 866.073 C 619.087 867.846 619.076 870.212 622.09 871.513 C 625.476 872.979 629.731 870.463 632.96 868.38 C 635.276 866.884 636.303 866.034 638.427 864.134 C 631.377 858.61 635.485 845.061 646.173 846.632 C 645.735 842.774 641.74 837.662 638.621 836.282 L 638.623 836.285 Z " fill="rgb(77,182,172)" />
+    </g>
+</svg>

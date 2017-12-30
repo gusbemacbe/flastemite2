@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 1024 1024" width="1024" height="1024">
+    <defs>
+        <clipPath id="_clipPath_DLGLCfe8ByS5cSkFvXYh1qPA0EDY1JGr">
+            <rect width="1024" height="1024" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#_clipPath_DLGLCfe8ByS5cSkFvXYh1qPA0EDY1JGr)">
+        <rect x="87" y="87" width="850" height="850" transform="matrix(1,0,0,1,0,0)" fill="rgb(120,144,156)" />
+        <path d=" M 428 584 L 436 550 L 600 550 L 605 576 L 514 659 L 428 584 Z " fill="rgb(66,66,66)" />
+        <defs>
+            <filter id="huhRlYjxNhItb13YsJMqrELXmLFpdCm2" x="-200%" y="-200%" width="400%" height="400%">
+                <feOffset xmlns="http://www.w3.org/2000/svg" in="SourceAlpha" result="offOut" dx="0" dy="8" />
+                <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="offOut" result="blurOut" stdDeviation="0" />
+                <feComponentTransfer xmlns="http://www.w3.org/2000/svg" in="blurOut" result="opacOut">
+                    <feFuncA xmlns="http://www.w3.org/2000/svg" type="table" tableValues="0 0.5" />
+                </feComponentTransfer>
+                <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="opacOut" mode="normal" />
+            </filter>
+        </defs>
+        <g filter="url(#huhRlYjxNhItb13YsJMqrELXmLFpdCm2)">
+            <path d=" M 410 487 C 415.471 517.054 420.539 538.188 434 555.305 C 484.407 618.268 549.032 619.956 593 564 C 605.667 544 622.661 513.667 629 483 C 650.333 490 668.333 428.667 647 399 C 659.667 345.667 671.333 290 646.195 269.093 C 634.635 259.734 620.237 250.703 603 242 C 602.333 234.667 594.479 221.775 582 218 C 512.708 200.677 448.333 216.333 410 253 C 389.949 274.691 379.88 306.068 378 342 L 392 399 C 374.667 406.333 389 490 410 487 Z " fill="rgb(66,66,66)" />
+        </g>
+        <path d=" M 138 937 C 135.629 869.424 148.026 795.661 180 737 C 206 683.333 310.667 654 378 627 C 415.333 604 414.667 597.333 428 584 L 514 659 L 605 576 C 610.113 592.847 627.467 609.2 657 625 C 774.214 671.528 840.333 701.333 857 737 C 880 775.333 905.089 885.595 895 937 Q 894.667 938 138 937 Z " fill="rgb(238,238,238)" />
+        <clipPath id="_clipPath_RY5Xvck5sXCg8ZNrlkVscLd6gI03X5TB">
+            <path d=" M 138 937 C 135.629 869.424 148.026 795.661 180 737 C 206 683.333 310.667 654 378 627 C 415.333 604 414.667 597.333 428 584 L 514 659 L 605 576 C 610.113 592.847 627.467 609.2 657 625 C 774.214 671.528 840.333 701.333 857 737 C 880 775.333 905.089 885.595 895 937 Q 894.667 938 138 937 Z " fill="rgb(238,238,238)" />
+        </clipPath>
+        <g clip-path="url(#_clipPath_RY5Xvck5sXCg8ZNrlkVscLd6gI03X5TB)">
+            <path d=" M 794.98 937 C 798.091 846.778 794.081 762.788 782.98 677 C 710.314 640.667 647.647 625 613.98 592 C 607.611 711.697 582.924 825.383 533.98 937 L 794.98 937 Z " fill="rgb(66,66,66)" />
+            <clipPath id="_clipPath_GCCv5S6iaDt8rR4fviDGdtd4vb421BCV">
+                <path d=" M 794.98 937 C 798.091 846.778 794.081 762.788 782.98 677 C 710.314 640.667 647.647 625 613.98 592 C 607.611 711.697 582.924 825.383 533.98 937 L 794.98 937 Z " fill="rgb(66,66,66)" />
+            </clipPath>
+            <g clip-path="url(#_clipPath_GCCv5S6iaDt8rR4fviDGdtd4vb421BCV)">
+                <path d=" M 628.98 937 C 662.403 844.272 671.727 740.949 668.98 627 L 613.98 591 L 533.98 937 L 628.98 937 Z " fill="rgb(33,33,33)" />
+            </g>
+            <path d=" M 240 937 C 236.889 846.778 240.899 762.788 252 677 C 324.667 640.667 387.333 623 421 590 C 427.369 709.697 452.056 825.383 501 937 L 240 937 Z " fill="rgb(66,66,66)" />
+            <clipPath id="_clipPath_R8ub06e2RWuCH6JmVaucerhPtjjLqySY">
+                <path d=" M 240 937 C 236.889 846.778 240.899 762.788 252 677 C 324.667 640.667 387.333 623 421 590 C 427.369 709.697 452.056 825.383 501 937 L 240 937 Z " fill="rgb(66,66,66)" />
+            </clipPath>
+            <g clip-path="url(#_clipPath_R8ub06e2RWuCH6JmVaucerhPtjjLqySY)">
+                <path d=" M 406 937 C 372.577 844.272 363.254 740.949 366 627 L 421 591 L 501 937 L 406 937 Z " fill="rgb(33,33,33)" />
+            </g>
+            <defs>
+                <filter id="4YY4Hfxl37N8bvXajNsePMwFx4QqOD3w" x="-200%" y="-200%" width="400%" height="400%">
+                    <feOffset xmlns="http://www.w3.org/2000/svg" in="SourceAlpha" result="offOut" dx="3" dy="3" />
+                    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="offOut" result="blurOut" stdDeviation="0" />
+                    <feComponentTransfer xmlns="http://www.w3.org/2000/svg" in="blurOut" result="opacOut">
+                        <feFuncA xmlns="http://www.w3.org/2000/svg" type="table" tableValues="0 0.5" />
+                    </feComponentTransfer>
+                    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="opacOut" mode="normal" />
+                </filter>
+            </defs>
+            <g filter="url(#4YY4Hfxl37N8bvXajNsePMwFx4QqOD3w)">
+                <path d=" M 503 791 C 503 783.825 508.601 778 515.5 778 C 522.399 778 528 783.825 528 791 C 528 798.175 522.399 804 515.5 804 C 508.601 804 503 798.175 503 791 Z " fill="rgb(224,224,224)" />
+            </g>
+            <defs>
+                <filter id="KnTOc1YPgxeD1kI0yDDG221toAXBvTPb" x="-200%" y="-200%" width="400%" height="400%">
+                    <feOffset xmlns="http://www.w3.org/2000/svg" in="SourceAlpha" result="offOut" dx="3" dy="3" />
+                    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="offOut" result="blurOut" stdDeviation="0" />
+                    <feComponentTransfer xmlns="http://www.w3.org/2000/svg" in="blurOut" result="opacOut">
+                        <feFuncA xmlns="http://www.w3.org/2000/svg" type="table" tableValues="0 0.5" />
+                    </feComponentTransfer>
+                    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="opacOut" mode="normal" />
+                </filter>
+            </defs>
+            <g filter="url(#KnTOc1YPgxeD1kI0yDDG221toAXBvTPb)">
+                <path d=" M 503 881 C 503 873.825 508.601 868 515.5 868 C 522.399 868 528 873.825 528 881 C 528 888.175 522.399 894 515.5 894 C 508.601 894 503 888.175 503 881 Z " fill="rgb(224,224,224)" />
+            </g>
+        </g>
+        <g id="tie">
+            <rect x="506" y="661" width="18" height="29" transform="matrix(1,0,0,1,0,0)" fill="rgb(33,33,33)" />
+            <path d=" M 443 717 C 441.684 712.079 444.543 706.609 443 699 C 439.233 687.748 432.39 672.567 431 655 C 466.377 651.219 491.387 654.229 506 664 L 506 686 C 485.333 702 464.343 712.343 443 717 Z " fill="rgb(33,33,33)" />
+            <path d=" M 588 699 L 600 702 L 601 652 L 585 657 L 588 699 Z " fill="rgb(0,0,0)" />
+            <path d=" M 524 687 C 551.876 699.554 574.553 705.564 592 705 L 596 647 C 565.248 649.367 541.258 655.044 524 664 L 524 687 Z " fill="rgb(33,33,33)" />
+        </g>
+    </g>
+</svg>
