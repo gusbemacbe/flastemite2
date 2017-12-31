@@ -1,0 +1,41 @@
+Missed icons:
+
+* Affinity Designer
+* Allo
+* Android Studio
+* Atom
+* Aurora
+* BirdFont
+* Chrome Canary
+* Chrominum
+* Facebook
+* Facebook Messenger
+* Firefox Developer
+* Firefox Nighty
+* Gravit Designer
+* Google Keep
+* Luminar
+* Hangouts
+* MacDown
+* Photolemur
+* Pinegrow
+* Typora
+* Visual Studio Code
+
+Missed icons of Windows:
+
+* Internet Edge
+* Internet Explorer
+
+Folders
+* Android
+* Apple
+* Arch Linux
+* Debian
+* Deepin Linux
+* FreeBSD
+* Linux
+* Linux Mint
+* Manjaro
+* Ubuntu
+* Windows

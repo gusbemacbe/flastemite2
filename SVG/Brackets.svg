@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 1024 1024" width="1024" height="1024">
+    <defs>
+        <clipPath id="_clipPath_briD2JTOX8zE1KckPiuizjLrcc6yUWBV">
+            <rect width="1024" height="1024" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#_clipPath_briD2JTOX8zE1KckPiuizjLrcc6yUWBV)">
+        <rect x="87" y="87" width="850" height="850" transform="matrix(1,0,0,1,0,0)" fill="rgb(25,118,210)" />
+        <path d="M 218 168 L 806 168 C 833.596 168 856 190.404 856 218 L 856 806 C 856 833.596 833.596 856 806 856 L 218 856 C 190.404 856 168 833.596 168 806 L 168 218 C 168 190.404 190.404 168 218 168 Z" style="stroke:none;fill:#EEEEEE;stroke-miterlimit:10;" />
+        <g id="brackets">
+            <path d=" M 552 223 L 801 223 L 801 801 L 552 801 L 552 223 Z  M 552 336.377 L 687.623 336.377 L 687.623 687.623 L 552 687.623 L 552 336.377 Z " fill-rule="evenodd" fill="rgb(33,33,33)" />
+            <path d=" M 223 223 L 472 223 L 472 801 L 223 801 L 223 223 Z  M 336.377 336.377 L 472 336.377 L 472 687.623 L 336.377 687.623 L 336.377 336.377 Z " fill-rule="evenodd" fill="rgb(33,33,33)" />
+        </g>
+    </g>
+</svg>
