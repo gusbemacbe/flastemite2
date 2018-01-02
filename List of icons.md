@@ -24,8 +24,8 @@
 * Facebook
 * Facebook Messenger
 * FileZilla
-* Firefox Developer
-* Firefox Nighty
+* ~~Firefox Developer~~
+* ~~Firefox Nighty~~
 * Gifx
 * Google Keep
 * Gravit Designer
